@@ -21,8 +21,10 @@
 
 
 
-支持双客户端：💻 Windows10+ / Macos13+
+支持PC端：💻 Windows10+ / Macos12+（Apple芯片）
 =
+支持APP移动端：📱 Android / IOS
+=  
 
 
 
@@ -68,3 +70,11 @@ AiDex的核心套利逻辑是多单多笔交易和同笔插入跟单获利，同
 下载地址：
 =
 https://github.com/A8HASH1/AiDex/releases/tag/v1.0.5
+
+
+✅️Aidex唯一在线客服💁‍♀️
+=  
+
+✈️Telegram：https://t.me/AidexCSR_Bot
+
+⭐️其它均为假冒，注意鉴别，有任何疑问可联系客服！
