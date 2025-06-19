@@ -71,6 +71,8 @@ AiDex的核心套利逻辑是多单多笔交易和同笔插入跟单获利，同
 
 下载地址：
 =
+https://github.com/A8HASH1/AiDex/releases/tag/v1.0.7
+
 https://github.com/A8HASH1/AiDex/releases/tag/v1.0.6
 
 https://github.com/A8HASH1/AiDex/releases/tag/v1.0.5
